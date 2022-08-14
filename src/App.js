@@ -21,8 +21,6 @@ function App() {
           <Route exact path="/" component={page1} />
           <Route exact path="/page2" component={page2} />
           <Route exact path="/Schedule" component={Schedule} />
-          <Route path="Listitems">
-          </Route>
         </Switch>
         {/* <Link to={`/`}>Go To page1</Link> 
         <Link to={`/page2`}>Go To page2</Link> 
