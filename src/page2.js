@@ -18,7 +18,6 @@ class page2 extends React.Component {   //page2クラスにReact.Componentを継
                 <br/>                              //追加　改行のhtmlタブ
                 <Link to={`/`}>Go To page1</Link>  //追加　Go To page1をクリックするとhttp://localhost:3000/に遷移する
                 <br/>            
-                <Listitems></Listitems>    
                 <br/>                     
                         
             </div>
