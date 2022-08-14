@@ -16,18 +16,15 @@ function App() {
         <p>
           react sampleaa
         </p>
-        <BrowserRouter>
+        {/* <BrowserRouter>
         <Switch>
           <Route exact path="/" component={page1} />
           <Route exact path="/page2" component={page2} />
           <Route exact path="/Schedule" component={Schedule} />
         </Switch>
-        {/* <Link to={`/`}>Go To page1</Link> 
-        <Link to={`/page2`}>Go To page2</Link> 
-        <Link to={`/Schedule`}>Go To Schedule</Link>  */}
 
 
-      </BrowserRouter>
+      </BrowserRouter> */}
       </header>
       
     </div>
