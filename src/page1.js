@@ -10,6 +10,8 @@ class page1 extends React.Component {   //page1クラスにReact.Componentを継
                 <Link to={`/page2`}>Go To page2</Link> 
                 <br/>
                 <Link to={`/Schedule`}>Go To Schedule</Link> 
+                <br/>
+                <Link to={`/shop`}>Go To shop</Link> 
             </div>
         );
     }
